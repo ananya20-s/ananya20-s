@@ -2,7 +2,7 @@
 
 ### Aspiring Data Scientist | AI/ML Enthusiast
 
-#### [Portfolio:](https://github.com/ananya20-s/ds-portfolio
+#### [Portfolio:](https://github.com/ananya20-s/ds-portfolio)
 
 
 <!--
