@@ -1,4 +1,9 @@
-## Hi there 👋
+## Ananya Sathyanarayana
+
+### Aspiring Data Scientist | AI/ML Enthusiast
+
+#### [Portfolio:](https://github.com/ananya20-s/ds-portfolio
+
 
 <!--
 **ananya20-s/ananya20-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
