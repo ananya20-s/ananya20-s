@@ -1,6 +1,9 @@
 ## Ananya Sathyanarayana
+#### Aspiring Data Scientist | AI/ML Enthusiast
 
-### Aspiring Data Scientist | AI/ML Enthusiast
+**Skills**: Python, Exploratory Data Analysis, Feature Engineering, Machine Learning, Deep Learning
+**Libraries**: Pandas, Numpy, Matplotlib, Seaborn
+
 
 #### [Portfolio:](https://github.com/ananya20-s/ds-portfolio)
 
