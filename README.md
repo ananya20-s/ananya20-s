@@ -8,5 +8,5 @@
 **Databases:** MySQL
 **Other Tools:** Git, Jupyter Notebooks, VS Code, Google Colab
 
-For more details, please look at my **[Resume:]**(/doc/Ananya_S_Nov24.pdf)
+For more details, please look at my **[Resume:](/doc/Ananya_S_Nov24.pdf)**
 
