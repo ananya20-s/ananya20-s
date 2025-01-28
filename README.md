@@ -1,8 +1,10 @@
 ## Ananya Sathyanarayana
 #### Aspiring Data Scientist | AI/ML Enthusiast
- - Aspiring Data Scientist with 10+ years of experience in software development
- - Currently pursuing Post Graduate Program in Artificial Intelligence and Machine Learning from Great Lakes Executive Learning with GPA 4.21/4.33
+ - Seasoned software engineer with 10+ years of experience in software development transitioning into Data Science
+ - Currently pursuing Post Graduate Program in Artificial Intelligence and Machine Learning from University of Texas at Austin with GPA 4.21/4.33
  - Graduate with B.E. in Computer Science
+ - Experience in collaborating with global teams
+ - Curious learner, Self-starter
    
 **TECHNICAL SKILLS**
 
@@ -11,6 +13,7 @@
 |**Programming Languages**| Python, SQL   | 
 |**Machine Learning Libraries**| Scikit-Learn, TensorFlow, Keras | 
 |**Data Analysis & Visualization**| Pandas, NumPy, Matplotlib, Seaborn   | 
+|**Machine Learning Techniques**| Supervised Learning, Deep Learning, NLP | 
 |**Databases**| MySQL   | 
 |**Other Tools**| Git, Jupyter Notebooks, VS Code, Google Colab   | 
 
@@ -23,6 +26,7 @@ Below are the details of the projects created by me for self-learning or academi
 
 |  Project Type | Area in DS/ML |  Title | Details |
 | :---   | :---         |     :---      |          :--- |
+|Academic| NLP   | Sentiment Analysis and Text Summarization   | To predict sentiment of News articles and understand its impact on stock prices<br>**Areas of Focus:** Text preprocessing, Text embeddings, Text Summarization using Hugging Face model <br>**Keys Libraries:** Pandas, Numpy, SciKit Learn, NLTK, Transformers<br>[Github](https://github.com/ananya20-s/gl_nlp_project)    |
 |Academic| Computer Vision   | Face Recognition System    | To build a Face Recognition system for a movie streaming application<br>**Areas of Focus:** Image Segmentation using UNET architecture, Transfer Learning, Image Classification <br>**Keys Libraries:** Tensorflow,Keras, Numpy, SciKit Learn, OpenCV<br>[Github](https://github.com/ananya20-s/gl_cv_project)    |
 |Self Learning| Computer Vision   | Pothole Detection    | To build a model that can detect potholes from street level images<br>**Areas of Focus:** Image Classification using Transfer Learning <br>**Keys Libraries:** SciKit Learn, OpenCV, Ultralytics<br>[Github](https://github.com/ananya20-s/pothole_detect) |
 |Self Learning| Supervised Learning-MLOps   | Customer Churn Prediction    | To predict if a credit customer will continue to use the services or not.<br>**Areas of Focus:** Classification, Hyper Parameter Tuning,MLOps using Flask RestAPI <br>**Keys Libraries:** Pandas, Numpy, MatplotLib,Seaborn, SciKit Learn<br>[Github](https://github.com/ananya20-s/sl-cc-churn) |
