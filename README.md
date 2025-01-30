@@ -1,5 +1,5 @@
 ## Ananya Sathyanarayana
-#### Aspiring Data Scientist | AI/ML Enthusiast
+#### Data Scientist | Python | Machine Learning
  - Seasoned software engineer with 10+ years of experience in software development transitioning into Data Science
  - Currently pursuing Post Graduate Program in Artificial Intelligence and Machine Learning from University of Texas at Austin with GPA 4.21/4.33
  - Graduate with B.E. in Computer Science
