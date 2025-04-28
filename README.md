@@ -19,7 +19,7 @@
 |**Other Tools**| Git, Jupyter Notebooks, VS Code, Google Colab   | 
 
 
-For details about my work experience and eduction , please look at my **[Resume:](/doc/Ananya_Data_Scientist.pdf)**
+For details about my work experience and education , please look at my **[Resume:](/doc/Ananya_Data_Scientist.pdf)**
 
 ### Projects List
 
